@@ -8,13 +8,13 @@ I am a passionate data scientist with a background in Business Analytics and Pro
 📈 My journey in data analysis isn't just about numbers; it's about crafting narratives that drive strategic decision-making and uncover valuable insights.
 
 ## Skills 🛠️
-🤖 **Machine Learning & Deep Learning**: Proficient in developing predictive models and pattern recognition algorithms.
-🐍 **Python & R**: Experienced in data analysis, scripting, and machine learning using Python and R.
-💼 **SQL**: Skilled in data manipulation and database management with SQL.
-📊 **Data Visualization**: Expertise in creating insightful visualizations for data-driven storytelling.
-📈 **Statistics for Data Science**: Strong understanding of statistical concepts for robust data analysis.
-🌐 **AWS & SAS**: Familiarity with AWS cloud services and SAS for data analysis and modeling.
-📝 **Git**: Proficient in version control and collaboration with Git.
+* 🤖 **Machine Learning & Deep Learning**: Proficient in developing predictive models and pattern recognition algorithms.
+* 🐍 **Python & R**: Experienced in data analysis, scripting, and machine learning using Python and R.
+* 💼 **SQL**: Skilled in data manipulation and database management with SQL.
+* 📊 **Data Visualization**: Expertise in creating insightful visualizations for data-driven storytelling.
+* 📈 **Statistics for Data Science**: Strong understanding of statistical concepts for robust data analysis.
+* 🌐 **AWS & SAS**: Familiarity with AWS cloud services and SAS for data analysis and modeling.
+* 📝 **Git**: Proficient in version control and collaboration with Git.
 
 ## My Projects 📗
 Explore my projects across various domains:
