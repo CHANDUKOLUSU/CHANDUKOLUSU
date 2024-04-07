@@ -27,7 +27,7 @@ Explore my projects across various domains:
 * 🌐 AWS Projects: Explore projects involving AWS cloud services for data processing and analysis. View Repository
 
 ### Let's Connect! 📞
-Feel free to reach out to me via email: lakshmi_ravi_chandu.kolusu@uconn.edu to discuss collaborations, projects, or anything data-related. Let's innovate and make data-driven decisions together!
+Feel free to reach out to me via email to discuss collaborations, projects, or anything data-related. Let's innovate and make data-driven decisions together!
 <!--
 **CHANDUKOLUSU/CHANDUKOLUSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
