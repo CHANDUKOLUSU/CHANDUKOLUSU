@@ -19,12 +19,12 @@ I am a passionate data scientist with a background in Business Analytics and Pro
 ## My Projects 📗
 Explore my projects across various domains:
 
-🤖 Machine Learning Projects: Dive into my machine learning projects, including predictive modeling and classification tasks. View Repository
-📈 Data Analysis with Python: Discover projects showcasing Python data analysis skills, including data cleaning, exploration, and visualization. View Repository
-📊 SQL Data Manipulation: Explore projects demonstrating proficiency in SQL for data manipulation and querying. View Repository
-📊 Power BI Dashboards: Experience insightful dashboards and visualizations created with Power BI. View Repository
-📊 Statistical Analysis: See how statistical techniques are applied to gain insights from data. View Repository
-🌐 AWS Projects: Explore projects involving AWS cloud services for data processing and analysis. View Repository
+* 🤖 Machine Learning Projects: Dive into my machine learning projects, including predictive modeling and classification tasks. View Repository
+* 📈 Data Analysis with Python: Discover projects showcasing Python data analysis skills, including data cleaning, exploration, and visualization. View Repository
+* 📊 SQL Data Manipulation: Explore projects demonstrating proficiency in SQL for data manipulation and querying. View Repository
+* 📊 Power BI Dashboards: Experience insightful dashboards and visualizations created with Power BI. View Repository
+* 📊 Statistical Analysis: See how statistical techniques are applied to gain insights from data. View Repository
+* 🌐 AWS Projects: Explore projects involving AWS cloud services for data processing and analysis. View Repository
 
 ### Let's Connect! 📞
 Feel free to reach out to me via email or phone to discuss collaborations, projects, or anything data-related. Let's innovate and make data-driven decisions together!
